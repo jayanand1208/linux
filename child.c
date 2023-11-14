@@ -1,3 +1,5 @@
+Question:write a C program to create a child process and allow the parent to display "parent" and the child to display "child" on the screen
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
